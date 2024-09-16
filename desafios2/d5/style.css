@@ -1,0 +1,36 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#apresentacao {
+    background-color: gray;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+#perfil {
+    text-align: center;
+}
+
+#texto {
+    text-align: center;
+}
+
+#comofalar {
+    background-color: gray;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#foto {
+    width: 30%;
+}

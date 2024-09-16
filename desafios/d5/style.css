@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+.apresentacao {
+    background-color: gray;
+}
+h1 {
+    text-align: center;
+}
+.comofalar {
+    background-color: gray;
+}
+h2 {
+    text-align: center;
+}
+#fon {
+text-align: left;
+}
+
+#perfil {
+    width: 30%;
+}
